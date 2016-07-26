@@ -1,0 +1,3 @@
+class Holder {
+    String value
+}
